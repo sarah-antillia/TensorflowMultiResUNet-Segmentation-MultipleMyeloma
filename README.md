@@ -289,6 +289,10 @@ Please refer to our experiment on <b>Overlapped-Tiled-Image-Segmentation</b> bas
 <a href="https://github.com/sarah-antillia/TensorflowUNet3Plus-Segmentation-MultipleMyeloma">
 TensorflowUNet3Plus-Segmentation-MultipleMyeloma</a>
 <br> 
+See also Tiled-Image-Segmentation based on <b>classic UNet Model without BatchNormalization</b>.<br>
+<a href="https://github.com/atlan-antillia/Tiled-Image-Segmentation-Multiple-Myeloma">Tiled-Image-Segmentation-Multiple-Myeloma</a>
+
+<br>
 <h3>
 References
 </h3>
