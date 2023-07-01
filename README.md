@@ -288,7 +288,7 @@ python ../../TensorflowMultiResUNetTiledInferencer.py  ./train_eval_infer.config
 <h3>
 References
 </h3>
-<pre>
+
 <b>1.MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation</b><br>
 Nabil Ibtehaz, M. Sohel Rahman<br>
 <pre>
@@ -351,5 +351,5 @@ different applications that use image segmentation can use SemSegLoss because of
 functions. This wide range of applications will lead to the development and growth of AI across all industries.
 }
 }
-</pre>
+
 <br>
