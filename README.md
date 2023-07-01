@@ -247,7 +247,7 @@ python ../../TensorflowMultiResUNetEvaluator.py ./train_eval_infer.config
 <br>
 
 <h2>
-6 Inference 
+6 Non Tiled Image Segmentation
 </h2>
 Please move to <b>./projects/MultipleMyeloma/</b>, and run the following bat file.<br>
 <pre>
@@ -258,6 +258,8 @@ which runs the Python script
 <pre>
 python ../../TensorflowMultiResUNetInferencer.py  ./train_eval_infer.config
 </pre>
+
+<b>Input images 2.5K (mini_test)</b><br>
 <img src="./asset/mini_test.png" width="1024" height="auto"><br>
 <br>
 <b>Infered images (mini_test_output)</b><br>
@@ -283,8 +285,10 @@ python ../../TensorflowMultiResUNetTiledInferencer.py  ./train_eval_infer.config
 
 <img src="./asset/4k_tiled_mini_test_output_overlapped.png" width="1024" height="auto"><br><br>
 
-</pre>
- 
+Please refer to our experiment on <b>Overlapped-Tiled-Image-Segmentation</b> based on UNet3Plus Model.<br>
+<a href="https://github.com/sarah-antillia/TensorflowUNet3Plus-Segmentation-MultipleMyeloma">
+TensorflowUNet3Plus-Segmentation-MultipleMyeloma</a>
+<br> 
 <h3>
 References
 </h3>
