@@ -285,11 +285,11 @@ python ../../TensorflowMultiResUNetTiledInferencer.py  ./train_eval_infer.config
 
 <img src="./asset/4k_tiled_mini_test_output_overlapped.png" width="1024" height="auto"><br><br>
 
-Please refer to our experiment on <b>Overlapped-Tiled-Image-Segmentation</b> based on UNet3Plus Model.<br>
+ Please refer to our experiment on <b>Overlapped-Tiled-Image-Segmentation</b> based on UNet3Plus Model.<br>
 <a href="https://github.com/sarah-antillia/TensorflowUNet3Plus-Segmentation-MultipleMyeloma">
 TensorflowUNet3Plus-Segmentation-MultipleMyeloma</a>
-<br> 
-See also Tiled-Image-Segmentation based on <b>classic UNet Model without BatchNormalization</b>.<br>
+<br> <br>
+ See also Tiled-Image-Segmentation based on <b>classic UNet Model without BatchNormalization</b>.<br>
 <a href="https://github.com/atlan-antillia/Tiled-Image-Segmentation-Multiple-Myeloma">Tiled-Image-Segmentation-Multiple-Myeloma</a>
 
 <br>
