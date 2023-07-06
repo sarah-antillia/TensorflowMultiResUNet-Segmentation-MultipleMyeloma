@@ -1,2 +1,2 @@
-python ../../TensorflowUNet3Plus.py ./train_eval_infer.config
+python ../../TensorflowMultiResUNetModelInspector.py ./train_eval_infer.config
 
